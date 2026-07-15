@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 Webpage: https://danielsajben.netlify.app/<br><br>
+🌐 Webpage: [https://danielsajben.netlify.app/](https://sajbendani.github.io/Portfolio/)<br><br>
 🎓 Final-year Computer Science Engineering BSc student at BME, currently finishing an AI-focused Erasmus exchange at TUM<br><br>🤖 Passionate about Machine Learning, Deep Learning, and Generative AI, with strong experience in LLMs, diffusion models, and computer vision<br><br>🔬 Active researcher: TDK competitor, contributor to an IJCAI 2026 submission on GNN–LLM temporal reasoning, and working on Survival Analysis with Tabular Foundation Models<br><br>🧠 Enjoy building scalable Python systems, data pipelines, and ML tools for real-world problems<br><br>💼 Past experience at Morgan Stanley in software engineering<br><br>🚀 Motivated to develop impactful, production-ready AI solutions and always eager to learn<br><br>🌍 Ambitious about an international tech career and passionate about applying AI to solve meaningful challenges in healthcare
 
 
