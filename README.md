@@ -1,12 +1,51 @@
-# 💫 About Me:
-🌐 Webpage: [https://danielsajben.netlify.app/](https://sajbendani.github.io/Portfolio/)<br><br>
-🎓 Final-year Computer Science Engineering BSc student at BME, currently finishing an AI-focused Erasmus exchange at TUM<br><br>🤖 Passionate about Machine Learning, Deep Learning, and Generative AI, with strong experience in LLMs, diffusion models, and computer vision<br><br>🔬 Active researcher: TDK competitor, contributor to an IJCAI 2026 submission on GNN–LLM temporal reasoning, and working on Survival Analysis with Tabular Foundation Models<br><br>🧠 Enjoy building scalable Python systems, data pipelines, and ML tools for real-world problems<br><br>💼 Past experience at Morgan Stanley in software engineering<br><br>🚀 Motivated to develop impactful, production-ready AI solutions and always eager to learn<br><br>🌍 Ambitious about an international tech career and passionate about applying AI to solve meaningful challenges in healthcare
+# Dániel Sajben
 
+**Quantitative ML Research · Machine Learning · Algorithm Development**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/d%C3%A1nielsajben/) 
+Dublin, Ireland · EU citizen  
+[Portfolio](https://sajbendani.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/d%C3%A1nielsajben/) · [GitHub](https://github.com/SajbenDani) · [Email](mailto:sajben.dani@gmail.com)
 
-# 💻 Tech Stack:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+I am a First Class Computer Science Engineering graduate from BME and an incoming MSc Advanced Artificial Intelligence student at University College Dublin, where I received a full tuition fee waiver. My work sits between statistical modelling, machine learning research, and production engineering: designing experiments, building algorithms, validating them on large datasets, and turning successful ideas into working systems.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Research and publications
+
+- **IEEE CAMAD 2026 — accepted, first author.** Developed a semantic graph-validation pipeline at Ericsson using locally hosted language models. The system reached **92%+ F1**, and I generated **2,000+ synthetic topology graphs** for downstream GNN and GAN training.
+- **NeurIPS 2026 — under review, first author.** Developed a VAE/PCA pipeline and a closed-form alignment method using SVMs and optimal transport for multi-site fMRI harmonisation. Evaluated robustness through Monte Carlo simulation and cross-validation.
+- **Survival Analysis with Tabular Foundation Models — TUM.** Combined survival stacking, foundation-model embeddings, and in-context learning across **1M+ records**, reaching a C-index of **0.87 on SEER** and **0.884 on PBC**.
+
+## Selected work
+
+- **Agentic retrieval for Codebeamer AI — PTC:** built and evaluated a RAG pipeline with LangGraph, HyDE, query rewriting, and task decomposition; deployed it as an AWS-hosted FastMCP service for a product used by **100K+ users**.
+- **Financial-data tooling — Morgan Stanley:** built Spring Boot and Angular services used by **1K+ colleagues** in Institutional Securities Trading; analysed A/B tests and Kibana telemetry and optimised SQL performance under load.
+- **Multimodal classification and generative modelling — BME:** trained a latent diffusion model for fMRI super-resolution and built a multimodal classifier that reached **90% balanced-test accuracy on 380K+ samples**.
+
+## Experience
+
+- **Ericsson** — AI Research Intern, 2026
+- **PTC** — Data Science & AI Engineer Intern, 2026
+- **BME** — Research Assistant, Neuroimaging, 2026
+- **Morgan Stanley** — Software Engineer Intern, Institutional Securities Trading, 2025
+
+## Technical focus
+
+- **Quantitative methods:** statistical modelling, optimisation, Monte Carlo simulation, survival analysis, cross-validation, ablation studies, optimal transport
+- **Machine learning:** PyTorch, TensorFlow/Keras, scikit-learn, Transformers, LLMs, VAEs, diffusion models, GNNs
+- **Programming and data:** Python, C++, SQL, Java, NumPy, Pandas
+- **ML and software systems:** Git, Docker, AWS, FastMCP, LangGraph, REST APIs, Spring Boot, Kibana
+
+## Education
+
+- **University College Dublin** — MSc Advanced Artificial Intelligence, Sep 2026–Aug 2027; full tuition fee waiver, programme ambassador
+- **Technical University of Munich** — Computer Science / Medical AI exchange, GPA 1.3/5.0, 2025–2026
+- **Budapest University of Technology and Economics** — BSc Computer Science Engineering, First Class Honours, GPA 4.61/5.0, 2022–2026
+
+## Awards and certifications
+
+- TDK Award 2025
+- PwC AI Hackathon 2026 Hungary finalist
+- Anthropic Academy: Building with the Claude API
+- Anthropic Academy: Model Context Protocol — Advanced Topics
+
+## Current interests
+
+I am preparing to start my MSc at UCD and am interested in 2027 internships and graduate roles in quantitative research, machine learning research, and algorithm development.
